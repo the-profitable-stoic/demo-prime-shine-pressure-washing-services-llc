@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Prime Shine Pressure Washing Services LLC",
+    "phone": "+19162306208",
+    "category": "power washing",
+    "city": "Sacramento",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "power-washing-heritage-craft",
+      "categoryGroup": "power-washing",
+      "name": "Heritage Craft",
+      "recipeFile": "power-washing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3A7088",
+        "primaryDark": "#234352",
+        "primaryLight": "#bacdd5",
+        "secondary": "#315f74",
+        "accent": "#3A7088",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#315f74",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "power-washing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Sacramento's Prime Power Washing",
+      "heroSubline": "Restore your home's curb appeal with our expert pressure washing services. Serving Sacramento, Elk Grove, Roseville, and Folsom.",
+      "aboutTitle": "Your Sacramento Power Washing Experts",
+      "aboutText": [
+        "Prime Shine Pressure Washing Services LLC started with a simple goal: to provide Sacramento homeowners with reliable and effective exterior cleaning solutions. We noticed the impact of our region's climate – hot summers, wet winters, and Central Valley air quality – on homes, and we wanted to offer a way to combat it.",
+        "We believe in doing the job right the first time. Our team is committed to using the best equipment and techniques to deliver exceptional results. We prioritize safety, efficiency, and respect for your property. We carefully assess each surface and use appropriate pressure and cleaning solutions to avoid damage.",
+        "We're proud to be a part of the Sacramento community. We support local initiatives and strive to be a responsible business. We are committed to providing fair pricing and transparent communication, building long-lasting relationships with our customers."
+      ],
+      "valueProps": [
+        {
+          "title": "Experienced Professionals",
+          "description": "Our skilled technicians have years of experience in pressure washing a variety of surfaces, from siding to concrete."
+        },
+        {
+          "title": "Eco-Friendly Solutions",
+          "description": "We use environmentally conscious cleaning products that are safe for your family, pets, and landscaping."
+        },
+        {
+          "title": "Advanced Equipment",
+          "description": "We utilize professional-grade pressure washing equipment to ensure thorough and efficient cleaning."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "We stand behind our work and are committed to providing you with the best possible results."
+        }
+      ],
+      "ctaHeadline": "Get a Free Quote Today!",
+      "ctaSubline": "Protect and beautify your home with Prime Shine Pressure Washing Services. Contact us for a free estimate."
+    },
+    "services": [
+      {
+        "slug": "house-washing",
+        "name": "House Washing",
+        "shortDescription": "Restore your home's exterior to its original glory with our gentle and effective house washing service.",
+        "description": "Our house washing service is designed to remove dirt, grime, mold, mildew, and algae from your home's siding. We use a soft washing technique that combines low pressure with specialized cleaning solutions to safely and effectively clean all types of siding, including vinyl, wood, stucco, and brick. This method prevents damage to your siding and ensures a thorough clean that lasts.\n\nSacramento's climate, with its hot summers and occasional wet winters, can be particularly harsh on home exteriors. The combination of heat, humidity, and air pollution can lead to the rapid buildup of dirt and grime. Our house washing service is the perfect solution to combat these challenges and keep your home looking its best. We pay special attention to areas prone to mold and mildew growth, such as north-facing walls and shaded areas. We also take precautions to protect your landscaping and outdoor furniture during the cleaning process.\n\nFrom older homes in Midtown to newer builds in Elk Grove, we’ve seen it all. Trust us to restore your home’s curb appeal.",
+        "process": [
+          "Step 1: Thorough inspection of your home's exterior.",
+          "Step 2: Application of our specialized cleaning solution.",
+          "Step 3: Gentle pressure washing to remove dirt and grime.",
+          "Step 4: Final rinse and inspection to ensure satisfaction."
+        ],
+        "benefits": [
+          "Removes dirt, grime, mold, and mildew",
+          "Enhances curb appeal",
+          "Protects your siding from damage",
+          "Extends the life of your siding"
+        ],
+        "faq": [
+          {
+            "question": "What is soft washing?",
+            "answer": "Soft washing is a cleaning method that uses low pressure and specialized cleaning solutions to safely and effectively clean delicate surfaces, such as siding and roofs. It is a gentler alternative to traditional pressure washing."
+          },
+          {
+            "question": "Is your cleaning solution safe for my plants and pets?",
+            "answer": "Yes, we use environmentally friendly cleaning solutions that are safe for your plants, pets, and family. We take precautions to protect your landscaping during the cleaning process."
+          },
+          {
+            "question": "How often should I have my house washed?",
+            "answer": "We recommend having your house washed every 1-2 years to maintain its appearance and protect your siding from damage. Sacramento's climate can be particularly tough on home exteriors, so regular cleaning is important."
+          }
+        ]
+      },
+      {
+        "slug": "driveway-cleaning",
+        "name": "Driveway Cleaning",
+        "shortDescription": "Remove oil stains, dirt, and grime from your driveway with our powerful driveway cleaning service.",
+        "description": "Our driveway cleaning service is designed to remove stubborn stains, dirt, and grime from your concrete or asphalt driveway. We use high-pressure washing equipment and specialized cleaning solutions to effectively clean even the toughest stains, including oil, grease, and rust. A clean driveway can dramatically improve the overall appearance of your home.\n\nDriveways in Sacramento are susceptible to staining from vehicles, weather, and general use. The hot summers can bake in oil stains, while the wet winters can contribute to the growth of mold and mildew. Our driveway cleaning service is the perfect solution to restore your driveway to its original condition. We also offer sealing services to protect your driveway from future stains and damage. We understand the unique challenges faced by Sacramento homeowners, from clay soil to intense sun, and tailor our approach accordingly.\n\nWhether you're in a historic neighborhood or a new development, a clean driveway makes a difference.",
+        "process": [
+          "Step 1: Pre-treatment of stains with specialized cleaning solutions.",
+          "Step 2: High-pressure washing to remove dirt and grime.",
+          "Step 3: Thorough rinsing to remove all traces of cleaning solution.",
+          "Step 4: Optional sealing to protect your driveway."
+        ],
+        "benefits": [
+          "Removes oil stains, dirt, and grime",
+          "Improves curb appeal",
+          "Prevents concrete deterioration",
+          "Extends the life of your driveway"
+        ],
+        "faq": [
+          {
+            "question": "Will pressure washing damage my concrete?",
+            "answer": "When performed correctly by experienced professionals, pressure washing will not damage your concrete. We use the appropriate pressure settings and techniques to ensure a safe and effective clean."
+          },
+          {
+            "question": "How long will it take to clean my driveway?",
+            "answer": "The time it takes to clean your driveway will depend on its size and the severity of the stains. Most driveway cleaning projects can be completed in a few hours."
+          },
+          {
+            "question": "Do you offer sealing services?",
+            "answer": "Yes, we offer sealing services to protect your driveway from future stains and damage. Sealing your driveway can help to extend its life and keep it looking its best."
+          }
+        ]
+      },
+      {
+        "slug": "patio-deck-cleaning",
+        "name": "Patio & Deck Cleaning",
+        "shortDescription": "Revitalize your outdoor living space with our patio and deck cleaning service.",
+        "description": "Our patio and deck cleaning service is designed to remove dirt, grime, mold, mildew, and algae from your patio and deck surfaces. We use a combination of pressure washing and specialized cleaning solutions to safely and effectively clean all types of materials, including wood, concrete, and composite decking. A clean patio or deck can make your outdoor living space more enjoyable.\n\nPatios and decks in Sacramento are exposed to the elements year-round. The hot summers can cause wood to dry out and crack, while the wet winters can promote the growth of mold and mildew. Our patio and deck cleaning service is the perfect solution to protect your investment and keep your outdoor living space looking its best. We pay special attention to removing algae from shaded areas.\n\nFrom Land Park bungalows to Natomas new builds, we can help.",
+        "process": [
+          "Step 1: Inspection of your patio or deck to assess the cleaning needs.",
+          "Step 2: Application of our specialized cleaning solution.",
+          "Step 3: Gentle pressure washing to remove dirt and grime.",
+          "Step 4: Final rinse and inspection to ensure satisfaction."
+        ],
+        "benefits": [
+          "Removes dirt, grime, mold, and mildew",
+          "Enhances the appearance of your outdoor living space",
+          "Protects your patio or deck from damage",
+          "Extends the life of your patio or deck"
+        ],
+        "faq": [
+          {
+            "question": "Will pressure washing damage my wood deck?",
+            "answer": "We use a low-pressure setting and specialized cleaning solutions to safely clean wood decks without causing damage. We are experienced in cleaning all types of wood decking."
+          },
+          {
+            "question": "Do I need to move my patio furniture?",
+            "answer": "Yes, we recommend moving your patio furniture before we begin cleaning. This will allow us to thoroughly clean the entire surface of your patio or deck."
+          },
+          {
+            "question": "How often should I have my patio or deck cleaned?",
+            "answer": "We recommend having your patio or deck cleaned every 1-2 years to maintain its appearance and protect it from damage. Sacramento's climate can be particularly tough on outdoor surfaces, so regular cleaning is important."
+          }
+        ]
+      },
+      {
+        "slug": "fence-cleaning",
+        "name": "Fence Cleaning",
+        "shortDescription": "Restore the beauty of your fence with our professional fence cleaning services.",
+        "description": "Our fence cleaning service removes dirt, algae, and mildew, revitalizing wood, vinyl, and metal fences. We use appropriate pressure and cleaning agents for each fence type, carefully cleaning without causing damage. A clean fence enhances curb appeal and extends its lifespan.\n\nFences in Sacramento are constantly exposed to harsh weather, including intense sun and seasonal rain, leading to discoloration and growth of unwanted organisms. Our cleaning process removes these blemishes, restoring your fence to its original condition. We also offer staining and sealing services for wood fences, providing extra protection against the elements.\n\nServing all neighborhoods, from the historic fences of Midtown to the modern fences of Elk Grove.",
+        "process": [
+          "Step 1: Inspect the fence to determine the material and cleaning needs.",
+          "Step 2: Apply appropriate cleaning solution to loosen dirt and grime.",
+          "Step 3: Gently pressure wash the fence, removing all debris.",
+          "Step 4: Rinse thoroughly and inspect for any remaining stains."
+        ],
+        "benefits": [
+          "Removes dirt, algae, and mildew",
+          "Enhances curb appeal",
+          "Extends the life of the fence",
+          "Restores the fence's original beauty"
+        ],
+        "faq": [
+          {
+            "question": "Will pressure washing damage my wood fence?",
+            "answer": "We adjust the pressure and use appropriate cleaning solutions to safely clean wood fences without causing damage. We have experience with various types of wood and know how to treat them properly."
+          },
+          {
+            "question": "How long does fence cleaning take?",
+            "answer": "The time required depends on the size and condition of the fence. Most jobs can be completed within a few hours."
+          },
+          {
+            "question": "Do you offer fence staining or sealing?",
+            "answer": "Yes, we offer staining and sealing services to protect wood fences from the elements and enhance their appearance."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-cleaning",
+        "name": "Gutter Cleaning",
+        "shortDescription": "Prevent water damage and protect your home with our thorough gutter cleaning service.",
+        "description": "Our gutter cleaning service removes leaves, debris, and other obstructions from your gutters and downspouts, ensuring proper water flow and preventing water damage to your home. Clogged gutters can lead to a variety of problems, including roof leaks, foundation damage, and pest infestations. Regular gutter cleaning is essential for maintaining the health of your home.\n\nSacramento's climate, with its wet winters and dry summers, can be particularly hard on gutters. Leaves and debris can accumulate quickly, especially during the fall months. Our gutter cleaning service is the perfect solution to keep your gutters clear and functioning properly. We also offer gutter guard installation to prevent future clogs.\n\nWhether you're in East Sacramento or Folsom, we're here to help.",
+        "process": [
+          "Step 1: Removal of all leaves and debris from gutters.",
+          "Step 2: Flushing of downspouts to ensure proper water flow.",
+          "Step 3: Inspection of gutters for any damage or leaks.",
+          "Step 4: Disposal of debris in an environmentally responsible manner."
+        ],
+        "benefits": [
+          "Prevents water damage to your home",
+          "Protects your roof and foundation",
+          "Prevents pest infestations",
+          "Extends the life of your gutters"
+        ],
+        "faq": [
+          {
+            "question": "How often should I have my gutters cleaned?",
+            "answer": "We recommend having your gutters cleaned at least twice a year, in the spring and fall. Homes with many trees nearby may require more frequent cleaning."
+          },
+          {
+            "question": "What are the signs of clogged gutters?",
+            "answer": "Signs of clogged gutters include water overflowing from the gutters, sagging gutters, and water damage to your home's exterior."
+          },
+          {
+            "question": "Do you offer gutter repair services?",
+            "answer": "We can identify and repair minor gutter damage. For more extensive repairs, we can recommend a trusted roofing contractor."
+          }
+        ]
+      },
+      {
+        "slug": "commercial-power-washing",
+        "name": "Commercial Power Washing",
+        "shortDescription": "Maintain a clean and professional image for your business with our commercial power washing services.",
+        "description": "Prime Shine Pressure Washing Services LLC offers comprehensive commercial power washing solutions for businesses in Sacramento and surrounding areas. We understand the importance of maintaining a clean and professional appearance for your business, and our services are designed to help you achieve that. We clean building exteriors, sidewalks, parking lots, and more, removing dirt, grime, graffiti, and other unsightly stains.\n\nSacramento businesses face unique challenges, from the Central Valley's air quality to the wear and tear of daily foot traffic. Our commercial power washing services are tailored to meet these challenges, providing effective and efficient cleaning solutions. We use professional-grade equipment and eco-friendly cleaning products to ensure a thorough clean without harming the environment.\n\nFrom Old Sacramento to Roseville, we service businesses of all sizes.",
+        "process": [
+          "Step 1: Site assessment to determine the cleaning needs.",
+          "Step 2: Development of a customized cleaning plan.",
+          "Step 3: Power washing using appropriate pressure and cleaning solutions.",
+          "Step 4: Final inspection to ensure satisfaction."
+        ],
+        "benefits": [
+          "Improves the appearance of your business",
+          "Creates a welcoming environment for customers",
+          "Removes dirt, grime, and graffiti",
+          "Protects your property from damage"
+        ],
+        "faq": [
+          {
+            "question": "What types of businesses do you serve?",
+            "answer": "We serve a wide range of businesses, including retail stores, restaurants, office buildings, and industrial facilities."
+          },
+          {
+            "question": "Do you offer after-hours cleaning?",
+            "answer": "Yes, we offer after-hours cleaning to minimize disruption to your business operations."
+          },
+          {
+            "question": "Are you insured?",
+            "answer": "Yes, we are fully insured to protect your business from any liability."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Elk Grove",
+        "slug": "elk-grove-ca",
+        "state": "CA",
+        "content": "Prime Shine Pressure Washing Services LLC is proud to offer premier pressure washing services to the residents and businesses of Elk Grove, California. As a city characterized by its newer, master-planned communities built from the 1990s through the 2020s, Elk Grove homes and businesses often require specific cleaning solutions to combat the effects of the region's hot, dry summers. We understand the unique needs of Elk Grove properties and are equipped to handle everything from algae removal on siding to driveway cleaning and fence restoration.\n\nOur experienced technicians use only the highest quality equipment and eco-friendly cleaning solutions to ensure a thorough and safe clean for your property. We're committed to providing exceptional customer service and delivering results that exceed your expectations. Whether you're looking to boost your home's curb appeal or maintain the cleanliness of your commercial property, Prime Shine is ready to serve you in Elk Grove.",
+        "localContext": "Elk Grove features many modern homes and businesses, with a climate that frequently experiences temperatures exceeding 100°F during the summer months, which can lead to increased buildup of dirt and algae.",
+        "nearbyAreas": [
+          "Sacramento",
+          "Laguna",
+          "Galt"
+        ]
+      },
+      {
+        "city": "Roseville",
+        "slug": "roseville-ca",
+        "state": "CA",
+        "content": "Prime Shine Pressure Washing Services LLC extends its professional pressure washing services to Roseville, California. Known for its well-planned communities developed primarily in the 1990s and 2000s, Roseville boasts a variety of residential and commercial properties. Our pressure washing services are tailored to address the specific challenges posed by Roseville's hot, dry climate, which can contribute to the accumulation of dirt, mold, and algae on exterior surfaces.\n\nWe utilize advanced pressure washing techniques and environmentally friendly cleaning agents to effectively remove stains and contaminants from your home or business's siding, driveways, patios, and more. Our goal is to restore the beauty and value of your property while minimizing our impact on the environment. Prime Shine is committed to providing Roseville residents with reliable, affordable, and top-quality pressure washing solutions.",
+        "localContext": "Roseville's planned communities and hot summers create unique cleaning needs for homes and businesses, requiring specialized pressure washing services to maintain their appearance and value.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Citrus Heights",
+          "Granite Bay"
+        ]
+      },
+      {
+        "city": "Folsom",
+        "slug": "folsom-ca",
+        "state": "CA",
+        "content": "Prime Shine Pressure Washing Services LLC is pleased to offer its expert pressure washing services to the community of Folsom, California. Folsom's newer planned communities, while aesthetically pleasing, require regular maintenance to combat the effects of the region's climate. We provide specialized cleaning solutions to effectively remove dirt, grime, and algae from various surfaces, including siding, roofs, decks, and driveways.\n\nOur team of skilled technicians employs state-of-the-art equipment and eco-friendly cleaning products to deliver exceptional results while protecting your property and the environment. We are dedicated to providing Folsom residents and business owners with reliable, efficient, and affordable pressure washing services that enhance the curb appeal and longevity of their properties.",
+        "localContext": "Folsom's newer homes and businesses, combined with hot summers, necessitate professional pressure washing services to preserve their aesthetic appeal and structural integrity.",
+        "nearbyAreas": [
+          "El Dorado Hills",
+          "Granite Bay",
+          "Rancho Cordova"
+        ]
+      },
+      {
+        "city": "Sacramento",
+        "slug": "sacramento-ca",
+        "state": "CA",
+        "content": "Prime Shine Pressure Washing Services LLC is proud to serve the greater Sacramento area, offering top-notch pressure washing solutions for residential and commercial properties. Sacramento experiences a Mediterranean climate with hot, dry summers and mild, wet winters, which can lead to the buildup of dirt, grime, and algae on various surfaces. Our comprehensive pressure washing services can help restore the beauty and cleanliness of your property, enhancing its curb appeal and value.\n\nWe utilize advanced equipment and eco-friendly cleaning products to effectively remove stains and contaminants from siding, driveways, patios, roofs, and more. Whether you're looking to prepare your home for sale or simply maintain its appearance, Prime Shine is committed to providing Sacramento residents and businesses with reliable, affordable, and professional pressure washing services.",
+        "localContext": "Sacramento's climate and diverse architecture require specialized pressure washing techniques to effectively clean and maintain various surfaces.",
+        "nearbyAreas": [
+          "West Sacramento",
+          "Elk Grove",
+          "Citrus Heights"
+        ]
+      },
+      {
+        "city": "Citrus Heights",
+        "slug": "citrus-heights-ca",
+        "state": "CA",
+        "content": "Prime Shine Pressure Washing Services LLC is dedicated to providing exceptional pressure washing services to the residents and businesses of Citrus Heights, CA. Citrus Heights experiences hot, dry summers and mild, wet winters, creating conditions conducive to the growth of mold, algae, and mildew on exterior surfaces. Our pressure washing services are designed to effectively remove these contaminants and restore the beauty of your property.\n\nWe use state-of-the-art equipment and environmentally friendly cleaning solutions to ensure a thorough and safe clean for your home or business. Whether you need to clean your siding, driveway, patio, or roof, Prime Shine is committed to delivering outstanding results that exceed your expectations. We take pride in our attention to detail and our commitment to customer satisfaction.",
+        "localContext": "Citrus Heights' climate necessitates regular pressure washing to combat the build-up of algae and mildew on residential and commercial properties.",
+        "nearbyAreas": [
+          "Roseville",
+          "Antelope",
+          "Orangevale"
+        ]
+      },
+      {
+        "city": "Rocklin",
+        "slug": "rocklin-ca",
+        "state": "CA",
+        "content": "Prime Shine Pressure Washing Services LLC proudly offers its professional pressure washing services to the community of Rocklin, California. Rocklin's blend of residential and commercial properties, coupled with its hot, dry summers, can lead to the accumulation of dirt, grime, and algae on exterior surfaces. Our services are tailored to address these specific challenges, ensuring your property remains clean and well-maintained.\n\nWe utilize advanced pressure washing techniques and environmentally friendly cleaning agents to effectively remove stains and contaminants from your home or business's siding, driveways, patios, and more. Our goal is to restore the beauty and value of your property while minimizing our impact on the environment. Prime Shine is committed to providing Rocklin residents with reliable, affordable, and top-quality pressure washing solutions.",
+        "localContext": "Rocklin's dry climate and mix of housing styles benefit from regular pressure washing to maintain curb appeal and prevent long-term damage.",
+        "nearbyAreas": [
+          "Roseville",
+          "Granite Bay",
+          "Lincoln"
+        ]
+      },
+      {
+        "city": "Lincoln",
+        "slug": "lincoln-ca",
+        "state": "CA",
+        "content": "Prime Shine Pressure Washing Services LLC is committed to providing the highest quality pressure washing services to the residents and businesses of Lincoln, CA. Lincoln's hot, dry summers and occasional wet winters can create the perfect environment for dirt, grime, and algae to accumulate on exterior surfaces. Our services are designed to combat these issues, restoring the beauty and cleanliness of your property.\n\nWe use state-of-the-art equipment and environmentally friendly cleaning solutions to ensure a thorough and safe clean for your home or business. Whether you need to clean your siding, driveway, patio, or roof, Prime Shine is dedicated to delivering outstanding results that exceed your expectations. We take pride in our attention to detail and our commitment to customer satisfaction.",
+        "localContext": "Lincoln's climate and growing community benefit from professional pressure washing services to maintain property values and aesthetic appeal.",
+        "nearbyAreas": [
+          "Rocklin",
+          "Roseville",
+          "Loomis"
+        ]
+      },
+      {
+        "city": "El Dorado Hills",
+        "slug": "el-dorado-hills-ca",
+        "state": "CA",
+        "content": "Prime Shine Pressure Washing Services LLC is delighted to offer our expert pressure washing services to the beautiful community of El Dorado Hills, California. El Dorado Hills, known for its upscale homes and stunning views, requires regular maintenance to combat the effects of the region's climate. We provide specialized cleaning solutions to effectively remove dirt, grime, and algae from various surfaces, including siding, roofs, decks, and driveways.\n\nOur team of skilled technicians employs state-of-the-art equipment and eco-friendly cleaning products to deliver exceptional results while protecting your property and the environment. We are dedicated to providing El Dorado Hills residents and business owners with reliable, efficient, and affordable pressure washing services that enhance the curb appeal and longevity of their properties.",
+        "localContext": "El Dorado Hills' upscale homes and susceptibility to algae growth due to the climate make pressure washing an essential service for maintaining property value.",
+        "nearbyAreas": [
+          "Folsom",
+          "Cameron Park",
+          "Granite Bay"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "House Washing",
+        "text": "Prime Shine Pressure Washing did an amazing job cleaning our house! Our siding was covered in algae, and it now looks brand new. They were professional, efficient, and reasonably priced. Highly recommend!",
+        "date": "2024-08-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Driveway Cleaning",
+        "text": "Our driveway was a mess with oil stains and dirt. Prime Shine Pressure Washing came out and made it look fantastic! There are still a few small stains, but overall, a huge improvement. Great service.",
+        "date": "2024-09-02"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Patio & Deck Cleaning",
+        "text": "We had Prime Shine Pressure Washing clean our deck before a party, and it looked incredible! They removed all the mildew and dirt, making it a perfect space for entertaining. Will definitely use them again.",
+        "date": "2024-09-18"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Fence Cleaning",
+        "text": "Our wooden fence was looking really weathered and green. Prime Shine Pressure Washing did a fantastic job cleaning it. It looks so much better now, and it really improved the curb appeal of our house. Very satisfied.",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Jennifer A.",
+        "rating": 4,
+        "service": "Gutter Cleaning",
+        "text": "Prime Shine Pressure Washing cleaned our gutters quickly and efficiently. They removed a ton of leaves and debris. I feel much better knowing our gutters are clear before the rainy season. Good value for the price.",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 5,
+        "service": "Commercial Power Washing",
+        "text": "Prime Shine Pressure Washing did an excellent job cleaning the exterior of our restaurant. They were professional, reliable, and the results were outstanding. Our building looks much cleaner and more inviting to customers. Highly recommend for any business!",
+        "date": "2024-11-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Prime Shine Pressure Washing - Sacramento CA",
+        "description": "Sacramento's top-rated power washing services. House, driveway, patio, fence cleaning. Free quotes! Serving Elk Grove, Roseville, Folsom."
+      },
+      "about": {
+        "title": "About Prime Shine Pressure Washing Sacramento",
+        "description": "Learn about Prime Shine Pressure Washing Services LLC in Sacramento CA. Experienced, reliable power washing for your home or business."
+      },
+      "services": {
+        "title": "Pressure Washing Services Sacramento CA",
+        "description": "Prime Shine offers house washing, driveway cleaning, patio cleaning & more in Sacramento CA. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Prime Shine Pressure Washing",
+        "description": "Contact Prime Shine Pressure Washing Services LLC in Sacramento CA for a free quote. Call us at +19162306208."
+      },
+      "reviews": {
+        "title": "Prime Shine Pressure Washing Reviews",
+        "description": "Read reviews for Prime Shine Pressure Washing Services LLC in Sacramento CA. See what our satisfied customers are saying!"
+      },
+      "service-areas": {
+        "title": "Prime Shine Pressure Washing Service Areas",
+        "description": "Prime Shine Pressure Washing serves Sacramento, Elk Grove, Roseville, and Folsom CA. Get a free quote today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "house-washing": "/images/service-house-washing.webp",
+      "driveway-cleaning": "/images/service-driveway-cleaning.webp",
+      "patio-deck-cleaning": "/images/service-patio-deck-cleaning.webp",
+      "fence-cleaning": "/images/service-fence-cleaning.webp",
+      "gutter-cleaning": "/images/service-gutter-cleaning.webp",
+      "commercial-power-washing": "/images/service-commercial-power-washing.webp"
+    },
+    "servicesResponsive": {
+      "house-washing": {
+        "src": "/images/service-house-washing.webp",
+        "srcset": "/images/service-house-washing-400w.webp 400w, /images/service-house-washing-800w.webp 800w, /images/service-house-washing-1200w.webp 1200w, /images/service-house-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "driveway-cleaning": {
+        "src": "/images/service-driveway-cleaning.webp",
+        "srcset": "/images/service-driveway-cleaning-400w.webp 400w, /images/service-driveway-cleaning-800w.webp 800w, /images/service-driveway-cleaning-1200w.webp 1200w, /images/service-driveway-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-deck-cleaning": {
+        "src": "/images/service-patio-deck-cleaning.webp",
+        "srcset": "/images/service-patio-deck-cleaning-400w.webp 400w, /images/service-patio-deck-cleaning-800w.webp 800w, /images/service-patio-deck-cleaning-1200w.webp 1200w, /images/service-patio-deck-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-cleaning": {
+        "src": "/images/service-fence-cleaning.webp",
+        "srcset": "/images/service-fence-cleaning-400w.webp 400w, /images/service-fence-cleaning-800w.webp 800w, /images/service-fence-cleaning-1200w.webp 1200w, /images/service-fence-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-cleaning": {
+        "src": "/images/service-gutter-cleaning.webp",
+        "srcset": "/images/service-gutter-cleaning-400w.webp 400w, /images/service-gutter-cleaning-800w.webp 800w, /images/service-gutter-cleaning-1200w.webp 1200w, /images/service-gutter-cleaning.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "commercial-power-washing": {
+        "src": "/images/service-commercial-power-washing.webp",
+        "srcset": "/images/service-commercial-power-washing-400w.webp 400w, /images/service-commercial-power-washing-800w.webp 800w, /images/service-commercial-power-washing-1200w.webp 1200w, /images/service-commercial-power-washing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
